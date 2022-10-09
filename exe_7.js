@@ -1,0 +1,10 @@
+let a = 2;
+let b = 4;
+let c = 80;
+let d = 10;
+let e = 16;
+let f = 8;
+console.log( ` Mutiplication : ${a} *${b}`);
+console.log(`${b} + ${b}`);
+console.log(`${c} / ${d}`);
+console.log(`${e} - ${f}`);
