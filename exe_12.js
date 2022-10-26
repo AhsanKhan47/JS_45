@@ -1,5 +1,4 @@
 let names = ["Eren", "Mikasa", "Armin", "Levi"];
-console.log(`Welcome to the Survey Crops ${names[0]}`);
-console.log(`Welcome to the Survey Crops ${names[1]}`);
-console.log(`Welcome to the Survey Crops ${names[2]}`);
-console.log(`Welcome to the Survey Crops ${names[3]}`);
+for(i=0; i<names.length; i++){
+console.log(` ${names[i]}! I'll appreciate if you come to the party`);
+};

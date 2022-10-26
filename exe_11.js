@@ -1,5 +1,5 @@
 let names = ["Eren", "Mikasa", "Armin", "Levi"];
-console.log(names[0]);
-console.log(names[1]);
-console.log(names[2]);
-console.log(names[3]);
+
+for(i=0; i<names.length; i++){
+console.log(names[i])
+};
